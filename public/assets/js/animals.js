@@ -26,7 +26,6 @@ const getAnimals = (formData = {}) => {
   let queryUrl = '/api/animals?';
 
   Object.entries(formData).forEach(([key, value]) => {
-    // If nothing is passed into formData, then the request will be simply GET /api/animals
     queryUrl += `${key}=${value}&`;
   });
 
@@ -45,8 +44,6 @@ const getAnimals = (formData = {}) => {
     });
 };
 
-// we call the handleGetAnimalsSubmit() function on form submission. 
-// This function will gather all of the form input data and package it as an object to send to the getAnimals() function as the formData argument.
 const handleGetAnimalsSubmit = event => {
   event.preventDefault();
   const dietRadioHTML = $animalForm.querySelectorAll('[name="diet"]');
