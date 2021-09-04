@@ -43,9 +43,9 @@
   Rob Atalla
     
   ## License
-  ![badge](https://img.shields.io/badge/license-MIT-important)
+  ![badge](https://img.shields.io/badge/license-ISC-important)
   <br>
-  Permission to use this application is granted under the MIT license. <https://opensource.org/licenses/MIT>
+  Permission to use this application is granted under the ISC license. <https://opensource.org/licenses/ISC>
 
 
   ## Testing
