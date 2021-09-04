@@ -10,7 +10,7 @@
   <br>
   ![badge](https://img.shields.io/github/last-commit/ratalla816/zookeepr)
   <br>
-  ![badge](https://img.shields.io/badge/license-MIT-important)
+  ![badge](https://img.shields.io/badge/license-ISC-important)
   
   ## Description
   
