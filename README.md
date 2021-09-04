@@ -34,7 +34,7 @@
   use very carefully
 
   ## Screenshot
-  ![Screenshot](assets/images/screenshot.png)
+  ![Screenshot](public/assets/images/screenshot.png)
 
   ## Features
   express.js
