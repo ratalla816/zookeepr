@@ -14,7 +14,7 @@
   
   ## Description
   
-   keeps the zoo
+   Application that allows a zoo to update and maintain the catalog of animals, and track their zookeepers. Users can search for animals and zookeepers using several peramaters, and they are also able to add animals and zookeepers. 
  
   ## Table of Contents
   - [Description](#description)
@@ -28,16 +28,16 @@
   - [Contact](#contact)
 
   ## Documentation
-  press any key to continue
+  
  
   ## Usage
-  use very carefully
+  The application is ran locally via a Node.js web server using Express.js. The production ready application is deployed on Heroku. 
 
   ## Screenshot
   ![Screenshot](public/assets/images/screenshot.png)
 
   ## Features
-  express.js
+  express.js, Heroku, Node.js, Jest, Insomnia, GET requests using parameters, POST routes, dynamic HTML
   
   # Acknowledgements
   Rob Atalla
@@ -49,7 +49,7 @@
 
 
   ## Testing
-  Insomnia
+  GET and POST routes verified using Insomnia. Validation files contained in the _tests_ folder were ran against the Jest testing suite. 
 
   ## Contact:
   Holler at me! <a href="mailto:rob.atalla@gmail.com">rob.atalla@gmail.com</a>
