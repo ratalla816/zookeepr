@@ -18,7 +18,7 @@
  
   ## Table of Contents
   - [Description](#description)
-  - [Documentation](#documentation)
+  - [Deployment](#deployment)
   - [Usage](#usage)
   - [Screenshot](#screenshot)
   - [Features](#features)
@@ -27,7 +27,8 @@
   - [Testing](#testing)
   - [Contact](#contact)
 
-  ## Documentation
+  ## Deployed Application
+  The application is deployed using Heroku: https://still-reef-91816.herokuapp.com/zookeepers 
   
  
   ## Usage
